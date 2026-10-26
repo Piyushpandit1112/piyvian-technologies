@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360"><defs><linearGradient id="g" x1="0%" y1="100%" x2="100%" y2="0%"><stop offset="0%" stop-color="#14B8A6"/><stop offset="45%" stop-color="#3B82F6"/><stop offset="100%" stop-color="#8B5CF6"/></linearGradient></defs><g transform="translate(12,0) scale(1.05)">
+    <g fill="none" stroke="url(#g)" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 90 260 L 90 92 Q 90 72 110 72 L 202 72 Q 254 72 254 122 Q 254 170 202 170 L 112 170"/>
+      <path d="M 112 170 L 90 194"/>
+    </g>
+    </g><text x="330" y="164" font-family="Montserrat, Arial, sans-serif" font-size="100" font-weight="700" letter-spacing="4" fill="#0B1020">PIYVIAN</text><text x="336" y="218" font-family="Montserrat, Arial, sans-serif" font-size="32" letter-spacing="12" fill="#0B1020">TECHNOLOGIES</text><text x="337" y="272" font-family="Arial, sans-serif" font-size="27" fill="#0B1020">Engineering What’s Next.</text></svg>
